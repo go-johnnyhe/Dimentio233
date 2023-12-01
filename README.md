@@ -1,7 +1,6 @@
 ### Hi there, I'm Johnny👋
 
-<!--
-**Dimentio233/Dimentio233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 - 🔭 I’m a Frontend Dev @ The Guide Network
@@ -19,4 +18,3 @@
     📬 Discord
 - ⚡ Fun fact: 
     - Cold shower enthusiast
--->
