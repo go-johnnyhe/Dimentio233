@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m a Frontend Dev @ The Guide Network
-- 🌱 I’m learning Distributed Systems through projects
+- 📑 I’m learning Distributed Systems through projects
 - 🔭 I’m currently looking for Summer 2023 Software Engineering Internships
 - 💬 Let's talk about:
      - VIM
