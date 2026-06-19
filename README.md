@@ -13,8 +13,8 @@
      - Smash Bros Ultimate
      - Badminton
 - 📫 How to reach me:
-     - [🏢 LinkedIn](https://www.linkedin.com/in/mingao-h-7p/)
-     - 📬 [Email](mailto:nirmalya.gh24@gmail.com)
+     - [🏢 LinkedIn](https://www.linkedin.com/in/johnnyhe7/)
+     - 📬 [Email](mailto:johnnyhe7@outlook.com)
      - 📬 Discord: onomatopotatos
 - ⚡ Fun fact: 
     - Cold shower enthusiast
